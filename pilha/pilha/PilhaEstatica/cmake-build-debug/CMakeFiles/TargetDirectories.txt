@@ -1,0 +1,3 @@
+/home/paulo-noe/Downloads/Unifagoc/ALGORITMOS E ESTRUTURAS DE DADOS/ESTUDO DIRIGIDO 2/Pilhas/PilhaEstatica/cmake-build-debug/CMakeFiles/PilhaEstatica.dir
+/home/paulo-noe/Downloads/Unifagoc/ALGORITMOS E ESTRUTURAS DE DADOS/ESTUDO DIRIGIDO 2/Pilhas/PilhaEstatica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paulo-noe/Downloads/Unifagoc/ALGORITMOS E ESTRUTURAS DE DADOS/ESTUDO DIRIGIDO 2/Pilhas/PilhaEstatica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
